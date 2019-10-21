@@ -1,14 +1,14 @@
 # Setup
 
-## gitInstall Docker
+## Install Docker
 
 ### Locally
 
 If you want to create docker containers and get into the nitty gritty of docker it is recommended that you download and setup docker on your own machine. 
 
-{% embed url="https://www.youtube.com/playlist?list=PLVCHLZL8TUm2dkX2CLx9duomByXiJb-gg" %}
+I have a whole playlist of docker stuff. First three videos talk about installing docker for your OS.
 
-I have a whole playlist of docker stuff. First three videos talk about installing docker for your OS. 
+[https://youtube.com/moficodes ](https://youtube.com/moficodes)
 
 If instructions are what you prefer [https://docs.docker.com/install/](https://docs.docker.com/install/) should give you the instruction you need.
 
