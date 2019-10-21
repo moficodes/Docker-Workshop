@@ -425,3 +425,11 @@ prime                 v1                  5159d258a5ee        35 minutes ago    
 
 7.89 MB, Thats all. Compare that to the 1.2 GB, thats over 150x improvement.
 
+### Using Linter
+
+```text
+docker run --rm -i hadolint/hadolint < Dockerfile-final
+```
+
+We can see how our other dockerfiles hold up against our linter.
+

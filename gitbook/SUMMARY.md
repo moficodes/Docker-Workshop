@@ -8,4 +8,5 @@
   * [ADD vs COPY](workshop/add-vs-copy.md)
   * [Dockerfile Best Practices](workshop/dockerfile-best-practices.md)
   * [Lets put some of this to practice](workshop/lets-put-some-of-this-to-practice.md)
+* [Final Thoughts and Next Steps](final-thoughts-and-next-steps.md)
 
