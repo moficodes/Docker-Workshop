@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](gitbook/workshop.md)
+* [Docker Workshop](gitbook/workshop.md)
 
