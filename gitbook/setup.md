@@ -1,6 +1,6 @@
 # Setup
 
-## Install Docker
+## gitInstall Docker
 
 ### Locally
 
@@ -47,6 +47,10 @@ docker -v
 Clone the repo 
 
 ```text
-<fill in the link>
+git clone https://github.com/moficodes/Docker-Workshop.git
+```
+
+```text
+cd Docker-Workshop/app
 ```
 
