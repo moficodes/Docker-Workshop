@@ -16,7 +16,7 @@ If instructions are what you prefer [https://docs.docker.com/install/](https://d
 
 For using this method you would need a IBM Cloud Account. Create one here [https://ibm.biz/BdzgmW](https://ibm.biz/BdzgmW)
 
-Then go to [workshop.shell.cloud.ibm.com](https://workshop.shell.cloud.ibm.com/) password `ikslab`
+Then go to [shell.cloud.ibm.com](https://shell.cloud.ibm.com/)
 
 ### Docker Playground
 
